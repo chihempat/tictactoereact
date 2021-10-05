@@ -4,9 +4,11 @@ Created with CodeSandbox
 
 ## Tic Tac Toe made with React hooks
 
-## Module used
+### Module used
+#### React JS CSS HTML
 
-### React,JS,CSS
+#### Hosted on: [Netlify](https://reacttictactoejs.netlify.app/)
+#### Tutorial Followed: [codeStackr](https://www.youtube.com/watch?v=08r9mDQvXpU)
 
-##Hosted on: [Netlify](https://reacttictactoejs.netlify.app/)
+
 ![ss](./public/ss.png)
