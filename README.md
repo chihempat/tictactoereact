@@ -10,5 +10,4 @@ Created with CodeSandbox
 #### Hosted on: [Netlify](https://reacttictactoejs.netlify.app/)
 #### Tutorial Followed: [codeStackr](https://www.youtube.com/watch?v=08r9mDQvXpU)
 
-
 ![ss](./public/ss.png)
