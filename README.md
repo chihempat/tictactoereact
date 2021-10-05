@@ -1,6 +1,3 @@
-# tictactoereact
-
-Created with CodeSandbox
 
 ## Tic Tac Toe made with React hooks
 
